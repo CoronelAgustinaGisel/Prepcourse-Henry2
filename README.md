@@ -1,2 +1,1 @@
-# Prepcourse-Henry2
-Este es un repositorio de prueba nuevamente 
+prueba de como crear un repositorio y clonarlo desde github a mi computadora
